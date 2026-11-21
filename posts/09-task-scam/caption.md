@@ -1,12 +1,11 @@
-Paid to like videos? It's a trap.
+# Instagram (as posted)
 
-It starts on WhatsApp or Telegram: "Earn ₹500 a day by liking YouTube videos or rating hotels."
+Task scam: paid to like videos? It's a trap. 👍💸
+Small payouts first, then they ask you to 'invest' to unlock bigger tasks. That money never comes back. No real job asks you to pay to earn.
+Send this to someone looking for part-time work.
+🇮🇳 India: call 1930 or cybercrime.gov.in
+#TaskScam #JobScam #ScamAlert #CyberSafety #CyberAlerts
 
-The first few tasks really pay out. Then come the "prepaid tasks", where you have to invest to unlock bigger returns. The amounts keep growing, and the money never comes back.
+# Facebook: Cyber alerts page
 
-No genuine job asks you to pay to earn. Walk away and report it at cybercrime.gov.in.
-
-Follow for one simple cyber alert at a time.
-No glamour. Only cyberalerts.
-
-#TaskScam #JobScam #PartTimeJobScam #CyberAlerts #CyberSafety #ScamAlert #CyberAwareness #India
+Same text without the Instagram hashtags. Add "No glamour. Only cyber alerts." and two hashtags.

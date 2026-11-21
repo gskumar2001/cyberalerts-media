@@ -1,12 +1,11 @@
-"KYC expiring" SMS with a link? It's a trap.
+# Instagram (as posted)
 
-"Dear customer, your KYC expires today. Your account will be blocked. Update now: [link]"
+KYC update SMS scam: 'Your KYC expires today, click here' is a trap. 🔗
+Don't click links in messages like this. Call your bank on the number from its official website or the back of your card.
+Send this to someone who panics at bank SMS.
+🇮🇳 India: call 1930 or cybercrime.gov.in
+#KYCFraud #SMSScam #BankSafety #ScamAlert #CyberAlerts
 
-Banks don't block accounts through SMS links. The link leads to a fake page that steals your login and OTP, or installs a malicious app.
+# Facebook: Cyber alerts page
 
-Don't click. Call the official number on your card or the bank's website.
-
-Follow for one simple cyber alert at a time.
-No glamour. Only cyberalerts.
-
-#KYCFraud #Phishing #SMSScam #CyberAlerts #CyberSafety #ScamAlert #CyberAwareness #India
+Same text without the Instagram hashtags. Add "No glamour. Only cyber alerts." and two hashtags.

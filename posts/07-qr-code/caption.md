@@ -1,12 +1,11 @@
-Scanning a QR code never gets you money.
+# Instagram (as posted)
 
-QR codes are for paying, not receiving. If a "buyer" sends you a QR code to "receive" money for something you're selling, scanning it and entering your PIN sends your money to them.
+QR code scam: scanning a QR code never gets you money. 📲
+QR codes are only for paying. If a 'buyer' sends you a QR code to 'pay' you, scanning it and entering your PIN sends money out.
+Send this to someone who sells things online.
+🇮🇳 India: call 1930 or cybercrime.gov.in
+#QRCodeScam #UPIFraud #ScamAlert #CyberSafety #CyberAlerts
 
-To receive money, share your UPI ID. You never need to scan anything.
+# Facebook: Cyber alerts page
 
-Don't scan. Don't enter your PIN.
-
-Follow for one simple cyber alert at a time.
-No glamour. Only cyberalerts.
-
-#QRCodeScam #UPIFraud #OLXScam #CyberAlerts #CyberSafety #ScamAlert #CyberAwareness #India
+Same text without the Instagram hashtags. Add "No glamour. Only cyber alerts." and two hashtags.

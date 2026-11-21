@@ -1,16 +1,11 @@
-Got scammed? The first hour matters most.
+# Instagram (as posted)
 
-Money sent to a scammer moves fast, from account to account. The sooner it's reported, the better the chance banks can freeze it.
+Got scammed? Report it in the first hour. ⏱️
+Speed matters. The faster you report, the better the chance to freeze the money.
+Send this to someone who'd panic and not know what to do.
+🇮🇳 India: call 1930 or cybercrime.gov.in
+#ScamAlert #CyberSafety #OnlineFraud #Cyber1930 #StaySafeOnline
 
-What to do right away:
-1. Call 1930, the national cyber crime helpline
-2. Call your bank and ask them to block the card or account
-3. File a complaint at cybercrime.gov.in
-4. Keep screenshots, UTR or transaction IDs, and the scammer's number
+# Facebook: Cyber alerts page
 
-Don't feel ashamed. Report it, and do it fast.
-
-Follow for one simple cyber alert at a time.
-No glamour. Only cyberalerts.
-
-#1930 #CyberCrime #ReportFraud #CyberAlerts #CyberSafety #ScamAlert #CyberAwareness #India
+Same text without the Instagram hashtags. Add "No glamour. Only cyber alerts." and two hashtags.

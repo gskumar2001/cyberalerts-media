@@ -1,12 +1,11 @@
-"Mom, I need money" could be AI.
+# Instagram (as posted)
 
-Scammers can clone a voice from a few seconds of audio taken from social media. They call parents and grandparents sounding just like a child in trouble: an accident, an arrest, a hospital.
+AI voice clone scam: a call that sounds like family can be fake. 🤖📞
+If someone familiar urgently asks for money, hang up and call them back on the number saved in your phone. Agree on a family code word.
+Send this to your family group.
+🇮🇳 India: call 1930 or cybercrime.gov.in
+#AIScam #VoiceClone #Deepfake #CyberSafety #CyberAlerts
 
-The urgency is the trap.
+# Facebook: Cyber alerts page
 
-Hang up. Call them back on the number you have saved. Agree on a family code word that only you know.
-
-Follow for one simple cyber alert at a time.
-No glamour. Only cyberalerts.
-
-#VoiceCloning #AIScam #Deepfake #CyberAlerts #CyberSafety #ScamAlert #CyberAwareness #India
+Same text without the Instagram hashtags. Add "No glamour. Only cyber alerts." and two hashtags.

@@ -1,13 +1,11 @@
-Chrome is under attack. Update it today.
+# Instagram (as posted)
 
-When Google patches a Chrome flaw that is already being exploited, just opening a bad web page can be enough to compromise your device.
+Incident alert: Chrome security update — Google has fixed a flaw attackers were already exploiting (CVE-2026-125350). 🔴
+Phone: Play Store → update Chrome. Laptop: ⋮ → Help → About Google Chrome → Relaunch.
+Send this to the friend who never restarts their browser.
+Sources: Google Chrome security advisory (9 Nov 2026); CISA Known Exploited Vulnerabilities list (10 Nov 2026).
+#CyberIncident #Chrome #UpdateNow #CyberSafety #CyberAlerts
 
-Update now:
-Menu (⋮) → Help → About Google Chrome → Relaunch
+# Facebook: Cyber alerts page
 
-On phones, update Chrome from the Play Store or App Store. Restart it after updating; the fix doesn't apply until you do.
-
-Follow for one simple cyber alert at a time.
-No glamour. Only cyberalerts.
-
-#Chrome #UpdateNow #ZeroDay #PatchNow #CyberAlerts #CyberSafety #ScamAlert #CyberAwareness #India
+Same text without the Instagram hashtags. Add "No glamour. Only cyber alerts." and two hashtags.

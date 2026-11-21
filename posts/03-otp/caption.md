@@ -1,12 +1,11 @@
-No real company asks for your OTP.
+# Instagram (as posted)
 
-Banks, delivery apps, telecom companies and government offices will never call and ask for your OTP.
+OTP scam: no bank, courier or company will ever ask for your OTP. 🔐
+Anyone who asks is a scammer — even if they know your name.
+Send this to the friend who reads OTPs out loud on calls.
+🇮🇳 India: call 1930 or cybercrime.gov.in
+#OTPFraud #ScamAlert #CyberSafety #BankSafety #CyberAlerts
 
-An OTP is the final key to your account. Whoever has it can take your money or your account.
+# Facebook: Cyber alerts page
 
-Anyone asking for it is a scammer, whatever they say. Never share it.
-
-Follow for one simple cyber alert at a time.
-No glamour. Only cyberalerts.
-
-#OTPFraud #NeverShareOTP #BankingSafety #CyberAlerts #CyberSafety #ScamAlert #CyberAwareness #India
+Same text without the Instagram hashtags. Add "No glamour. Only cyber alerts." and two hashtags.

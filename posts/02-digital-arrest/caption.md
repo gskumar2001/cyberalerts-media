@@ -1,12 +1,11 @@
-Police never arrest you on a video call.
+# Instagram (as posted)
 
-"Digital arrest" is a scam. The caller pretends to be from the police, CBI, ED, customs or a courier firm. They say your parcel or Aadhaar is linked to a crime and keep you on video for hours, then demand money to "clear your name".
+Digital arrest scam: police never arrest anyone on a video call. 🚫
+If an 'officer' says you're under digital arrest and asks for money, hang up. It's a scam, every time.
+Send this to your parents — they're the most targeted.
+🇮🇳 India: call 1930 or cybercrime.gov.in
+#DigitalArrest #ScamAlert #CyberSafety #CyberAlerts #India
 
-Real agencies don't do this. There is no such thing as a digital arrest.
+# Facebook: Cyber alerts page
 
-Hang up. Don't transfer anything. Report the number at 1930 or cybercrime.gov.in.
-
-Follow for one simple cyber alert at a time.
-No glamour. Only cyberalerts.
-
-#DigitalArrest #FraudCall #CyberAlerts #CyberSafety #ScamAlert #CyberAwareness #India
+Same text without the Instagram hashtags. Add "No glamour. Only cyber alerts." and two hashtags.

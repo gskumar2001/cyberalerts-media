@@ -1,12 +1,11 @@
-"Power cut tonight" SMS? Don't call that number.
+# Instagram (as posted)
 
-"Your electricity will be disconnected tonight at 9:30 pm because last month's bill wasn't updated. Call our officer at 98XXXXXXXX."
+Electricity bill SMS scam: 'Power will be cut tonight, call this officer' is a trap. ⚡
+Don't call the number or install any app they send. Check your dues only on your electricity board's official app or website.
+Send this to whoever pays the bills at home.
+🇮🇳 India: call 1930 or cybercrime.gov.in
+#ElectricityBillScam #SMSScam #ScamAlert #CyberSafety #CyberAlerts
 
-The "officer" will then ask you to install an app or pay a small amount through a link. That is how your account gets drained.
+# Facebook: Cyber alerts page
 
-Check your dues only on your electricity board's official app or website.
-
-Follow for one simple cyber alert at a time.
-No glamour. Only cyberalerts.
-
-#ElectricityBillScam #SMSScam #CyberAlerts #CyberSafety #ScamAlert #CyberAwareness #India
+Same text without the Instagram hashtags. Add "No glamour. Only cyber alerts." and two hashtags.

@@ -21,6 +21,8 @@ Instagram posts and reels for **CyberAlerts** (@gskumar20012018).
 
 Numbered posts are evergreen. `incident-*` posts are tied to a live event and should be posted promptly.
 
+All 11 are posted as reels to Instagram @gskumar20012018 and the "Cyber alerts" Facebook page. 01–06 and the Chrome incident went out on 19 Nov 2026; 07–10 on 21 Nov 2026.
+
 ## Layout
 
 ```

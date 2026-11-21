@@ -1,12 +1,11 @@
-"Support" wants you to install a screen-sharing app?
+# Instagram (as posted)
 
-Fake bank, telecom or courier "support" agents ask you to install a screen-sharing or remote-access app to "fix" a problem.
+Screen-sharing scam: real support never asks you to install a screen-sharing app. 🖥️
+Once it's installed, they can see every OTP and PIN you type. Hang up and call your bank on its official number.
+Send this to someone who trusts 'customer care' calls.
+🇮🇳 India: call 1930 or cybercrime.gov.in
+#RemoteAccessScam #TechSupportScam #ScamAlert #CyberSafety #CyberAlerts
 
-Once it's installed, they can see your screen, including every OTP and PIN you type.
+# Facebook: Cyber alerts page
 
-Real support never needs this. Hang up, uninstall the app, and call your bank from its official number.
-
-Follow for one simple cyber alert at a time.
-No glamour. Only cyberalerts.
-
-#RemoteAccessScam #TechSupportScam #CyberAlerts #CyberSafety #ScamAlert #CyberAwareness #India
+Same text without the Instagram hashtags. Add "No glamour. Only cyber alerts." and two hashtags.

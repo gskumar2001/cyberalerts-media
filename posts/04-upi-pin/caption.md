@@ -1,12 +1,11 @@
-You never need a UPI PIN to receive money.
+# Instagram (as posted)
 
-Your UPI PIN is only for sending money. If someone says "enter your PIN to receive the payment", that is a collect request, and the money leaves your account.
+UPI PIN scam: you never enter your PIN to receive money. 💸
+If a 'collect request' asks for your PIN, entering it sends money out, not in.
+Send this to someone who just started using UPI.
+🇮🇳 India: call 1930 or cybercrime.gov.in
+#UPIFraud #UPISafety #ScamAlert #DigitalPayments #CyberAlerts
 
-Common traps: buyers on OLX or Marketplace, fake refunds, "cashback" requests.
+# Facebook: Cyber alerts page
 
-Read every screen before entering your PIN. Asked to enter it to get cash? It's a scam.
-
-Follow for one simple cyber alert at a time.
-No glamour. Only cyberalerts.
-
-#UPI #UPIFraud #DigitalPayments #CyberAlerts #CyberSafety #ScamAlert #CyberAwareness #India
+Same text without the Instagram hashtags. Add "No glamour. Only cyber alerts." and two hashtags.
